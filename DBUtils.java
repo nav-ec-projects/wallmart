@@ -1,7 +1,6 @@
 ---------------------
 XXXXXXXXXXXXXXXXXXXXXXX
 ---------------------
-<<<<<<< HEAD
 =======
 Hi Naveen
 
@@ -11,7 +10,6 @@ There was an issue in the code....
 
 
 =======
->>>>>>> origin/stage
 
 
 Plase validate ...................
