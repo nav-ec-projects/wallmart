@@ -1,6 +1,7 @@
 ---------------------
 XXXXXXXXXXXXXXXXXXXXXXX
 ---------------------
+<<<<<<< HEAD
 =======
 Hi Naveen
 
@@ -9,6 +10,8 @@ There was an issue in the code....
   Ficing the Issues. Please take the latest Code
 
 
+=======
+>>>>>>> origin/stage
 
 
 Plase validate ...................
