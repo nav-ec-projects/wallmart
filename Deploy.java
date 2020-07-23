@@ -1,14 +1,2 @@
--- OK Naveen
--- Naveen Katakam
-This file contains DeploymentFiles
-
-
-
-Added the Data
-
-
-asdasdadas
-
-asdasdasdasdsd
-
-Vi Naveen Katakam
+Wrong Code 
+cleared the file
